@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\ScriptLinkedListViewer\obj\Debug\net8.0-windows\ScriptLinkedListViewer.Form1.resources
+C:\Users\User\source\repos\ScriptLinkedListViewer\obj\Debug\net8.0-windows\ScriptLinkedListViewer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ScriptLinkedListViewer\obj\Debug\net8.0-windows\ScriptLinkedListViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ScriptLinkedListViewer\obj\Debug\net8.0-windows\ScriptLinkedListViewer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ScriptLinkedListViewer\obj\Debug\net8.0-windows\ScriptLinkedListViewer.AssemblyInfo.cs
+C:\Users\User\source\repos\ScriptLinkedListViewer\obj\Debug\net8.0-windows\ScriptLinkedListViewer.csproj.CoreCompileInputs.cache
